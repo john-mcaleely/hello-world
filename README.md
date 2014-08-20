@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-A traditional start
+This is me following the tutorial...
